@@ -1,0 +1,11 @@
+/**
+ * MailPoet bbPress Add-on
+ *
+ * @author Sebs Studio
+ * @version 1.0.0
+ */
+
+.bbp-remember-me.mailpoet label { 
+	width: 90%;
+	margin-left: 4px;
+}
